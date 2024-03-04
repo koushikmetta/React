@@ -7,7 +7,7 @@ This project is a simple Tic Tac Toe game built using React. It allows two playe
 To run the game locally, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/koushikmetta/tic-tac-toe.git`
+`git clone https://github.com/koushikmetta/React/tree/main/tic-tac-toe-starting-project.git`
 
 2. Navigate to the project directory:
 `cd tic-tac-toe`
