@@ -4,5 +4,5 @@ The project are simple apps built using React. These are from the tutorials for 
 
 ## Credits
 
-This project is based on the Tic Tac Toe tutorial from the Course : React - The Complete Guide 2024 (incl. React Router & Redux)
+This projects are based on the React tutorial from the Course : React - The Complete Guide 2024 (incl. React Router & Redux)
 by Maximilian Schwarzmüller
