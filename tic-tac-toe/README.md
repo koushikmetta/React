@@ -47,5 +47,4 @@ This project covers the following fundamental concepts in React:
 
 ## Credits
 
-This project is based on the Tic Tac Toe tutorial from the Course : React - The Complete Guide 2024 (incl. React Router & Redux)
-by Maximilian Schwarzmüller
+This project is based on the Tic Tac Toe tutorial from the Course : React - The Complete Guide 2024 (incl. React Router & Redux) by Maximilian Schwarzmüller
