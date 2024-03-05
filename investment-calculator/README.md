@@ -1,8 +1,4 @@
-Sure, here's the README.md content in markdown format:
-
-```markdown
 # Investment Calculator
-
 This is a simple investment calculator application built using React. It allows users to calculate the future value of their investments based on various input parameters such as initial investment, interest rate, and time period.
 
 ## Features
@@ -15,31 +11,29 @@ This is a simple investment calculator application built using React. It allows 
 
 1. Clone the repository to your local machine:
 
-```
+``
 git clone https://github.com/koushikmetta/React.git
-```
+``
 
 2. Navigate to the project directory:
 
-```
+``
 cd investment-calculator
-```
+``
 
 3. Install dependencies using npm or yarn:
 
-```
+``
 npm install
-# or
-yarn install
-```
+
+``
 
 4. Start the development server:
 
-```
+``
 npm start
-# or
-yarn start
-```
+
+``
 
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
 
