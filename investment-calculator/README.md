@@ -11,27 +11,27 @@ This is a simple investment calculator application built using React. It allows 
 
 1. Clone the repository to your local machine:
 
-``
-git clone https://github.com/koushikmetta/React.git
-``
+    ``
+    git clone https://github.com/koushikmetta/React.git
+    ``
 
 2. Navigate to the project directory:
 
-``
-cd investment-calculator
-``
+    ``
+    cd investment-calculator
+    ``
 
 3. Install dependencies using npm or yarn:
 
-``
-npm install
-``
+    ``
+    npm install
+    ``
 
 4. Start the development server:
 
-``
-npm start
-``
+    ``
+    npm start
+    ``
 
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
 
