@@ -1,4 +1,4 @@
-# Tic Tac Toe Game in React
+# Projects in React
 
 This project is a simple Tic Tac Toe game built using React. It allows two players to take turns marking cells in a 3x3 grid to achieve three in a row, either horizontally, vertically, or diagonally.
 
@@ -7,7 +7,7 @@ This project is a simple Tic Tac Toe game built using React. It allows two playe
 To run the game locally, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/koushikmetta/React/tree/main/tic-tac-toe-starting-project.git`
+`git clone https://github.com/koushikmetta/React.git`
 
 2. Navigate to the project directory:
 `cd tic-tac-toe`
