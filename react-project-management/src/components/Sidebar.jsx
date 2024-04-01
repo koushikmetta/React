@@ -11,9 +11,9 @@ export default function Sidebar({ onStartAddProject, projects, onSelectProject, 
                 {projects.map(project => {
                     let cssClasses = 'w-full text-left px-2 py-1 rounded-sm my-1 hover:text-stone-100 hover:bg-stone-800';
                     if (project.id === selectedProjectId) {
-                        cssClasses += ' bg:-stone-800 text-stone-200'
+                        cssClasses += ' bg:-stone-800 text-stone-100'
                     } else {
-                        cssClasses += ' text-stone-300'
+                        cssClasses += ' text-stone-400'
                     }
                     return (
                         <li key={project.id}>
