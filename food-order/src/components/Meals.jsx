@@ -3,17 +3,20 @@ import { currencyFormatter } from "../util/formatter.js";
 import Button from "./UI/Button.jsx";
 import CartContext from "../store/CartContext.jsx";
 import useHttp from "../hooks/useHttp.js";
+import Error from "./Error.jsx";
 const config = {};
 export default function Meals() {
 
-    const { data: loadMeals, isLoading, error } = useHttp("http://localhost:3000/meals", config, []);
+    const { data: loadMeals, isLoading, error, clearData, sendRequest } = useHttp('http://localhost:3000/meals', config, []);
 
     const cartCtx = useContext(CartContext);
 
     if (isLoading) {
         <p className="center">Fetching the data....</p>
     }
-
+    if (error) {
+        return <Error title="Failed to load Meals" message={error} />
+    }
     function handleAddMealToCart(meal) {
         cartCtx.addItem(meal);
     }
